@@ -1,8 +1,8 @@
 resume
 ======
 
-An oversized application for showing off some of my coding skills
+My online high school resume. 
 
 ### See website in action
 
-[http://pascalvangemert.nl/](http://pascalvangemert.nl/?ref=github)
+[http://nitishsood.com/](http://nitishsood.com)
